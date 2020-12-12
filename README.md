@@ -22,7 +22,7 @@ Code Refractor
   - aside
 - How to create horizontal list elements <br/>
   [CSS Snippet](assets/images/CSS-Snippet.png)
-- how to create navigation links to different section of the same page <br/>
+- How to create navigation links to different section of the same page <br/>
 [ Horizontal list with inline-display and navigation links ](assets/images/Horizontal-List.png)
 - Adding a reset page to normalize the different browser settings <br/>
 [Code Snippet](assets/images/Reset-Code.png)
